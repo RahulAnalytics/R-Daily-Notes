@@ -7,3 +7,4 @@ typeof - determine the datatype of object
 is.numeric, is.double.... check if object is number or decimal number
 CharToRaw - Characters to Raw Data Type
 intToBits - Integer to Bits Data Type
+RawtoChar Rawtobits- Convert Raw to Char and Bits
