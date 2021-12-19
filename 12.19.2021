@@ -1,1 +1,9 @@
-CTRL+L - Clears Console Window in R Studio
+Shortcuts
+CTRL+L - Clears Console Window in R Studio 
+
+Functions
+nchar - Count Characters
+typeof - determine the datatype of object
+is.numeric, is.double.... check if object is number or decimal number
+CharToRaw - Characters to Raw Data Type
+intToBits - Integer to Bits Data Type
