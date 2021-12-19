@@ -8,3 +8,8 @@ is.numeric, is.double.... check if object is number or decimal number
 CharToRaw - Characters to Raw Data Type
 intToBits - Integer to Bits Data Type
 RawtoChar Rawtobits- Convert Raw to Char and Bits
+%% - Gives you reminder
+%/% - Gives you quotient
+
+Research and Practice!
+Logical Operators - Element level application vs Data Set level application needs more understanding
